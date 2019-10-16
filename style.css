@@ -1,0 +1,47 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+.banner {
+  height: 100vh;
+}
+
+#logo {
+  font-family: 'Playfair Display SC', serif;
+  font-size: 20px;
+}
+
+.nav-bound {
+  width: 200px;
+}
+
+#models {
+  width: 150px;
+}
+
+#menu-right {
+  font-size: 25px;
+}
+
+#kitt {
+  background-image: url('images/KITT-Knight-Rider-Driving-Day-Experience-1920x1080-resize.jpg');
+  background-size: cover;
+}
+
+#title {
+  margin-top: 100px;
+}
+
+#order {
+  background-image: url('images/KITT-Knight-Rider-Driving-Track-Experience-1920x1080-resize.jpg');
+  background-size: cover;
+}
+
+#link-to-top {
+  color: white;
+}
+#link-to-top i {
+  font-size: 40px;
+}
